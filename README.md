@@ -3,10 +3,10 @@ The Chaum Pedersen proof system (i.e., proof of same exponent), see Section 3.2 
 
 To run the code in this repo:
 
-`cd ChaumPedersenZKP'
-`python3 server.py'
+`cd ChaumPedersenZKP`
+`python3 server.py`
 
 Then, in another terminal
-`python3 client.py'
+`python3 client.py`
 
 
